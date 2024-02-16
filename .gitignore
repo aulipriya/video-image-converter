@@ -6,5 +6,6 @@ __pycache__
 .vscode
 output_images/
 *.mp4
+*.mkv
 *.jpg
 database/

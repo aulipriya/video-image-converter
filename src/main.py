@@ -72,7 +72,9 @@ def recognize_face(face):
 
 
 if __name__ == "__main__":
-    create_images_from_video_file("../test1.mp4")
+    for video_file in os.listdir("../"):
+        if video_file.endswith('.mkv') or video_file.endswith('.mp4'):
+            create_images_from_video_file('../' + video_file)
 
 
 
