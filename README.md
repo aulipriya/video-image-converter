@@ -1,5 +1,5 @@
 # video-image-converter
-
+![video_image_converter.jpg](video_image_converter.jpg)
 ## Installation 
 
 To run the project smoothly you need python 3.8 or above. Preferable version of python is 3.8, unless it is updated later on. 
